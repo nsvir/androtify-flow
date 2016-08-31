@@ -17,7 +17,7 @@ OR
 ==
 
 - From the [Automate] community
-- Search for Androtify
+- Search for [Androtify]
 - Edit the [Cloud receive block]
 - Customize the flow to suit your needs :)
 - Start!
@@ -39,6 +39,7 @@ AUTOR
 =====
 Nicolas Svirchevsky n.svirchevsky@gmail.com
 
+[Androtify]: https://llamalab.com/automate/community/flows/6826
 [Automate]: https://play.google.com/store/apps/details?id=com.llamalab.automate
 [Androtify-cli]: https://github.com/nsvir/androtify-cli#androtify-cli
 [Androtify-flow]: https://github.com/nsvir/androtify-flow#androtify-flow
